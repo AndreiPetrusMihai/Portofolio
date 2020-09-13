@@ -76,3 +76,14 @@
     }
   }
 }
+
+.img-fluid{
+  align-self: center;
+  justify-self: center;
+}
+
+.imageContainer{
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
