@@ -80,8 +80,21 @@
               <p class="about-wrapper__info-text">
                 I am currently a student at Babes-Bolyai University, year two, working towards my licentiate degree. I've been developing a growing passion towards web development and all the exciting technologies and possibilities it brings.
 
-                I look forward to improving my skillset and meeting new people whom I can work with and learn from.
+                I look forward to improving my skills and meeting new people whom I can work with and learn from.
+
               </p>
+              <p class="about-wrapper__info-text">
+                During my projects I worked with:
+              </p>
+              <ul class="about-wrapper__info-text" style="font-size: 15px">
+                <li>React</li>
+                <li>Redux</li>
+                <li>Redux-Saga</li>
+                <li>React-Router</li>
+                <li>Styled-Components</li>
+                <li>SQL and NoSQL Databases</li>
+                <li>Different APIs</li>
+              </ul>
               <p class="about-wrapper__info-text">
               </p>
               <!-- <span class="d-flex mt-3">
@@ -108,10 +121,46 @@
           <div class="row">
             <div class="col-lg-4 col-sm-12">
               <div class="project-wrapper__text">
+                <h3 class="project-wrapper__text-title">Crwn Clothes</h3>
+                <div>
+                  <p class="mb-4">
+                    My most up to date project, Crwn Clothing is a E-Commerce site built with React. This is by far the biggest project I've worked on and I've still got one or two things
+                    to add. So far the project is more Frontend oriented, using Firebase for the backend part. It's authentication capabilities are based on <u>Firebases</u> authentication service
+                    but it also uses firestore, the noSQL online database for item storage, as for the payments, they are handled by Stripe. This project helped me grow a lot when it comes to react and all the technologies that go with it.
+                    I developed a deeper understanding of <u>redux</u>, <u>react-router</u>, data flow and state management. As for the asynchronous actions, the live version of the website uses <u>redux-thunk</u>. Speaking of which,
+                    the newer version from github refactored some parts into <u>Styled-Components</u> , and <u>Redux-Saga</u>. In the near future I plan to use React Hooks and even GraphQL.
+                  </p>
+                </div>
+                <a target="_blank" class="cta-btn cta-btn--hero" href="https://crwn-live-ap.herokuapp.com">
+                  See Live
+                </a>
+                <a target="_blank" class="cta-btn text-color-main" href="https://github.com/AndreiPetrusMihai/crown-clothing">
+                  Source Code
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-8 col-sm-12 imageContainer">
+              <div class="project-wrapper__image">
+                <a href="https://crwn-live-ap.herokuapp.com" target="_blank">
+                  <div data-tilt class="thumbnail rounded" >
+                    <img class="img-fluid" src="./assets/Crwn%20Clothes-logos.jpeg" />
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- /END Project -->
+
+          <!-- Each .row is a project SMART BRAIN-->
+          <div class="row">
+            <div class="col-lg-4 col-sm-12">
+              <div class="project-wrapper__text">
                 <h3 class="project-wrapper__text-title">Smart Brain</h3>
                 <div>
                   <p class="mb-4">
-                    Smart-Brain is a minimalist website with a login/register function which allows you to submit URLs of images, on which it uses the face detection model of the Clarifai API. It keeps track of the number of submits a user has made. For the backend I used Express.js and for the databases I chose PostgreSQL together with Knex.js for ease of use. Frontend still consists mainly of React and I plan to re-implement parts of it with Redux as an exercise. The website is currently deployed on Heroku.
+                    Smart-Brain is a minimalist website with a login/register function which allows you to submit URLs of images, on which it uses the face detection model of the Clarifai API.
+                    It keeps track of the number of submits a user has made. For the backend I used Express.js and for the databases I chose PostgreSQL together with Knex.js for ease of use.
+                    Frontend still consists mainly of React and I plan to re-implement parts of it with Redux as an exercise. The website is currently deployed on Heroku.
                   </p>
                 </div>
                 <a target="_blank" class="cta-btn cta-btn--hero" href="https://smart-brain-andrei-petrus.herokuapp.com">
@@ -142,7 +191,8 @@
                 <h3 class="project-wrapper__text-title">Robo-Squad</h3>
                 <div>
                   <p class="mb-4">
-                    My first React application where I also used some APIs. After I completed it, I reimplemented some parts with Redux. Using React for the first time was a pleasant experience and it went quite   smoothly.
+                    My first React application where I also used some APIs. After I completed it, I reimplemented some parts with Redux.
+                    Using React for the first time was a pleasant experience and it went quite   smoothly.
                   </p>
                 </div>
                 <a target="_blank" class="cta-btn cta-btn--hero" href="https://andreipetrusmihai.github.io/RoboSquad/">
