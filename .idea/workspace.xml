@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b9e8fd-f586-406d-bee6-03e01d4f468f" name="Default Changelist" comment="">
+    <list default="true" id="f9b9e8fd-f586-406d-bee6-03e01d4f468f" name="Default Changelist" comment="Added CRWN Clothes project and the libraries i worked with.">
       <change beforePath="$PROJECT_DIR$/src/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,30 +60,64 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603028692942</updated>
-      <workItem from="1603028694023" duration="2579000" />
+      <workItem from="1603028694023" duration="2884000" />
     </task>
+    <task id="LOCAL-00001" summary="Added CRWN Clothes project and the libraries i worked with.">
+      <created>1603031402773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603031402773</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added CRWN Clothes project and the libraries i worked with.">
+      <created>1603031451146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603031451146</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added CRWN Clothes project and the libraries i worked with." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added CRWN Clothes project and the libraries i worked with." />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1897" height="281" key="GridCell.Tab.0.bottom" timestamp="1603028947107">
+    <state width="1897" height="215" key="GridCell.Tab.0.bottom" timestamp="1603031392422">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603028947107" />
-    <state width="1897" height="281" key="GridCell.Tab.0.center" timestamp="1603028947107">
+    <state width="1897" height="215" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603031392422" />
+    <state width="1897" height="215" key="GridCell.Tab.0.center" timestamp="1603031392421">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603028947107" />
-    <state width="1897" height="281" key="GridCell.Tab.0.left" timestamp="1603028947107">
+    <state width="1897" height="215" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603031392421" />
+    <state width="1897" height="215" key="GridCell.Tab.0.left" timestamp="1603031392421">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603028947107" />
-    <state width="1897" height="281" key="GridCell.Tab.0.right" timestamp="1603028947107">
+    <state width="1897" height="215" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603031392421" />
+    <state width="1897" height="215" key="GridCell.Tab.0.right" timestamp="1603031392421">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603028947107" />
+    <state width="1897" height="215" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603031392421" />
+    <state x="551" y="250" key="Vcs.Push.Dialog.v2" timestamp="1603031457404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603031457404" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603030173776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
